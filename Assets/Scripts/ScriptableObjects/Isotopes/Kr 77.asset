@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7960bcc742d2a7d4fb0798ac0c11218b, type: 3}
+  m_Name: Kr 77
+  m_EditorClassIdentifier: 
+  type: 0
+  isotopeName: Krypton 77
+  isotopeModel: {fileID: 2209725262536334238, guid: 3332a24a4636dfd4cb58dcb278d6c2b6,
+    type: 3}
+  unlocked: 0

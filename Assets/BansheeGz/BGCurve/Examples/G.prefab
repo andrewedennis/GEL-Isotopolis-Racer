@@ -1,0 +1,436 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4439559746744009173
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4439559746744009194}
+  - component: {fileID: 4439559746744009198}
+  - component: {fileID: 4439559746744009193}
+  - component: {fileID: 4439559746744009192}
+  - component: {fileID: 4439559746744009195}
+  - component: {fileID: 4439559746744009199}
+  m_Layer: 0
+  m_Name: G
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4439559746744009194
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4439559746744009173}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -3.13, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4439559746744009198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4439559746744009173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e70f079e2a6bf364e8185b765fbe61c0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  settings:
+    hideHandles: 1
+    newPointDistance: 2
+    showCurve: 1
+    showCurveMode: 2
+    showCurveOption: 0
+    sections: 20
+    showPointMenu: 1
+    showTangents: 0
+    tangentsSize: 0.7
+    tangentsColor: {r: 1, g: 1, b: 1, a: 1}
+    tangentsPerSection: 1
+    controlType: 0
+    vRay: 0
+    lineColor: {r: 0.19513187, g: 1, b: 0.08823532, a: 1}
+    restrictGizmoz: 
+    showPointControlType: 1
+    showPointPosition: 1
+    showHandles: 1
+    handlesType: 0
+    handlesSettings:
+      RemoveX: 1
+      RemoveY: 1
+      RemoveZ: 1
+      RemoveXZ: 1
+      RemoveXY: 0
+      RemoveYZ: 1
+      AxisScale: 0.5
+      PlanesScale: 0.641
+      Alpha: 1
+    showLabels: 0
+    labelColor: {r: 0, g: 0, b: 0, a: 1}
+    showPositions: 0
+    labelColorSelected: {r: 0, g: 1, b: 0, a: 1}
+    showSpheres: 1
+    sphereRadius: 0.1
+    sphereColor: {r: 0.19513187, g: 1, b: 0.08823532, a: 1}
+    showPointControlPositions: 1
+    showControlHandles: 1
+    controlHandlesType: 0
+    controlHandlesSettings:
+      RemoveX: 1
+      RemoveY: 1
+      RemoveZ: 1
+      RemoveXZ: 1
+      RemoveXY: 0
+      RemoveYZ: 1
+      AxisScale: 0.5
+      PlanesScale: 0.545
+      Alpha: 0.7
+    controlHandlesColor: {r: 0, g: 1, b: 1, a: 1}
+    showControlLabels: 1
+    showControlPositions: 0
+    labelControlColor: {r: 0, g: 0, b: 0, a: 1}
+    showTransformField: 0
+    existing: 1
+  mode2D: 1
+  closed: 0
+  points:
+  - controlType: 1
+    positionLocal: {x: 1.487596, y: 3.5718074, z: 0}
+    controlFirstLocal: {x: 1.4020667, y: -0.4371047, z: 0}
+    controlSecondLocal: {x: -1.4020667, y: 0.4371047, z: -0}
+    pointTransform: {fileID: 0}
+    curve: {fileID: 4439559746744009198}
+    fieldsValues: []
+  - controlType: 2
+    positionLocal: {x: -0.5709095, y: -0.13895679, z: 0}
+    controlFirstLocal: {x: -1.5575938, y: 1.9097579, z: 0}
+    controlSecondLocal: {x: 1.6460218, y: -1.5690664, z: 0}
+    pointTransform: {fileID: 0}
+    curve: {fileID: 4439559746744009198}
+    fieldsValues: []
+  - controlType: 1
+    positionLocal: {x: 0.6264169, y: 1.0908698, z: 0}
+    controlFirstLocal: {x: 0.546258, y: 0.47887516, z: 0}
+    controlSecondLocal: {x: -0.546258, y: -0.47887516, z: -0}
+    pointTransform: {fileID: 0}
+    curve: {fileID: 4439559746744009198}
+    fieldsValues: []
+  - controlType: 0
+    positionLocal: {x: 1.998157, y: -0.35896802, z: 0}
+    controlFirstLocal: {x: -0.24356918, y: 0.1278451, z: 0}
+    controlSecondLocal: {x: 0.24356918, y: -0.1278451, z: 0}
+    pointTransform: {fileID: 0}
+    curve: {fileID: 4439559746744009198}
+    fieldsValues: []
+  pointsComponents: []
+  pointsGameObjects: []
+  fields: []
+  snapType: 0
+  snapAxis: 1
+  snapDistance: 10
+  snapLayerMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  snapTriggerInteraction: 0
+  snapToBackFaces: 0
+  snapMonitoring: 0
+  eventMode: 0
+  pointsMode: 0
+  forceChangedEventMode: 0
+--- !u!114 &4439559746744009193
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4439559746744009173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6d20671ad38ded4fa2362df353b9a31, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showHandles: 1
+  hidden: 0
+  parent: {fileID: 0}
+  ccName: 
+  fields: 1
+  mathType: 0
+  sectionParts: 30
+  optimizeStraightLines: 0
+  tolerance: 0.2
+  usePositionToCalculateTangents: 0
+  updateMode: 0
+  rendererForUpdateCheck: {fileID: 0}
+  mathChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  spheresScale: 1
+  spheresColor: {r: 1, g: 1, b: 1, a: 1}
+  spheresCount: 100
+--- !u!120 &4439559746744009192
+LineRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4439559746744009173}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_MotionVectors: 0
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: ae3eb8adc3950cb4899d2a8dc3564602, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Positions:
+  - {x: -1.6424041, y: 4.7118073, z: 0}
+  - {x: -1.7851475, y: 4.7467117, z: 0}
+  - {x: -1.9322855, y: 4.7644486, z: 0}
+  - {x: -2.0827994, y: 4.7656856, z: 0}
+  - {x: -2.2356708, y: 4.7510905, z: 0}
+  - {x: -2.389881, y: 4.72133, z: 0}
+  - {x: -2.5444112, y: 4.6770725, z: 0}
+  - {x: -2.6982434, y: 4.618985, z: 0}
+  - {x: -2.8503582, y: 4.5477347, z: 0}
+  - {x: -2.999738, y: 4.4639897, z: 0}
+  - {x: -3.1453633, y: 4.368417, z: 0}
+  - {x: -3.2862163, y: 4.2616835, z: 0}
+  - {x: -3.4212778, y: 4.144458, z: 0}
+  - {x: -3.5495296, y: 4.0174065, z: 0}
+  - {x: -3.669953, y: 3.881198, z: 0}
+  - {x: -3.7815294, y: 3.7364986, z: 0}
+  - {x: -3.8832405, y: 3.5839765, z: 0}
+  - {x: -3.9740672, y: 3.424299, z: 0}
+  - {x: -4.0529914, y: 3.2581336, z: 0}
+  - {x: -4.118994, y: 3.0861478, z: 0}
+  - {x: -4.171057, y: 2.9090087, z: 0}
+  - {x: -4.208162, y: 2.727384, z: 0}
+  - {x: -4.2292895, y: 2.5419414, z: 0}
+  - {x: -4.233422, y: 2.3533483, z: 0}
+  - {x: -4.2195396, y: 2.1622717, z: 0}
+  - {x: -4.1866245, y: 1.9693794, z: 0}
+  - {x: -4.1336584, y: 1.7753389, z: 0}
+  - {x: -4.059623, y: 1.5808176, z: 0}
+  - {x: -3.963498, y: 1.3864828, z: 0}
+  - {x: -3.8442667, y: 1.1930022, z: 0}
+  - {x: -3.7009096, y: 1.0010432, z: 0}
+  - {x: -3.5414355, y: 0.859974, z: 0}
+  - {x: -3.3920834, y: 0.7493052, z: 0}
+  - {x: -3.2526522, y: 0.6671248, z: 0}
+  - {x: -3.122941, y: 0.61152107, z: 0}
+  - {x: -3.0027487, y: 0.58058196, z: 0}
+  - {x: -2.8918746, y: 0.5723957, z: 0}
+  - {x: -2.790117, y: 0.58505034, z: 0}
+  - {x: -2.6972754, y: 0.616634, z: 0}
+  - {x: -2.6131487, y: 0.66523486, z: 0}
+  - {x: -2.5375357, y: 0.72894096, z: 0}
+  - {x: -2.4702356, y: 0.8058405, z: 0}
+  - {x: -2.411047, y: 0.8940215, z: 0}
+  - {x: -2.359769, y: 0.99157214, z: 0}
+  - {x: -2.316201, y: 1.0965805, z: 0}
+  - {x: -2.2801416, y: 1.2071347, z: 0}
+  - {x: -2.2513895, y: 1.3213229, z: 0}
+  - {x: -2.2297442, y: 1.4372332, z: 0}
+  - {x: -2.2150044, y: 1.5529537, z: 0}
+  - {x: -2.206969, y: 1.6665726, z: 0}
+  - {x: -2.2054372, y: 1.7761779, z: 0}
+  - {x: -2.2102077, y: 1.8798577, z: 0}
+  - {x: -2.2210798, y: 1.9757001, z: 0}
+  - {x: -2.2378523, y: 2.0617933, z: 0}
+  - {x: -2.260324, y: 2.1362255, z: 0}
+  - {x: -2.288294, y: 2.1970847, z: 0}
+  - {x: -2.3215613, y: 2.242459, z: 0}
+  - {x: -2.359925, y: 2.2704365, z: 0}
+  - {x: -2.403184, y: 2.2791054, z: 0}
+  - {x: -2.451137, y: 2.2665539, z: 0}
+  - {x: -2.5035832, y: 2.2308698, z: 0}
+  - {x: -2.5372624, y: 2.198398, z: 0}
+  - {x: -2.5654655, y: 2.1648326, z: 0}
+  - {x: -2.5881922, y: 2.130174, z: 0}
+  - {x: -2.605443, y: 2.0944214, z: 0}
+  - {x: -2.6172175, y: 2.0575757, z: 0}
+  - {x: -2.623516, y: 2.0196362, z: 0}
+  - {x: -2.6243386, y: 1.9806032, z: 0}
+  - {x: -2.6196847, y: 1.9404768, z: 0}
+  - {x: -2.609555, y: 1.8992568, z: 0}
+  - {x: -2.5939488, y: 1.8569432, z: 0}
+  - {x: -2.572867, y: 1.8135362, z: 0}
+  - {x: -2.5463085, y: 1.7690357, z: 0}
+  - {x: -2.5142744, y: 1.7234415, z: 0}
+  - {x: -2.4767637, y: 1.6767539, z: 0}
+  - {x: -2.433777, y: 1.6289728, z: 0}
+  - {x: -2.3853145, y: 1.580098, z: 0}
+  - {x: -2.3313756, y: 1.5301298, z: 0}
+  - {x: -2.2719605, y: 1.479068, z: 0}
+  - {x: -2.2070694, y: 1.4269128, z: 0}
+  - {x: -2.1367023, y: 1.373664, z: 0}
+  - {x: -2.060859, y: 1.3193216, z: 0}
+  - {x: -1.9795394, y: 1.2638859, z: 0}
+  - {x: -1.8927438, y: 1.2073565, z: 0}
+  - {x: -1.800472, y: 1.1497335, z: 0}
+  - {x: -1.7027242, y: 1.0910171, z: 0}
+  - {x: -1.5995003, y: 1.0312071, z: 0}
+  - {x: -1.4908001, y: 0.9703036, z: 0}
+  - {x: -1.3766239, y: 0.9083066, z: 0}
+  - {x: -1.2569716, y: 0.84521604, z: 0}
+  - {x: -1.1318431, y: 0.78103197, z: 0}
+  m_Parameters:
+    serializedVersion: 3
+    widthMultiplier: 1
+    widthCurve:
+      serializedVersion: 2
+      m_Curve:
+      - serializedVersion: 3
+        time: 0
+        value: 0.2
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      - serializedVersion: 3
+        time: 1
+        value: 0.2
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 0
+        weightedMode: 0
+        inWeight: 0.33333334
+        outWeight: 0.33333334
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    colorGradient:
+      serializedVersion: 2
+      key0: {r: 0.03529412, g: 1, b: 0, a: 1}
+      key1: {r: 0.03529412, g: 1, b: 0, a: 1}
+      key2: {r: 0, g: 0, b: 0, a: 0}
+      key3: {r: 0, g: 0, b: 0, a: 0}
+      key4: {r: 0, g: 0, b: 0, a: 0}
+      key5: {r: 0, g: 0, b: 0, a: 0}
+      key6: {r: 0, g: 0, b: 0, a: 0}
+      key7: {r: 0, g: 0, b: 0, a: 0}
+      ctime0: 0
+      ctime1: 65535
+      ctime2: 0
+      ctime3: 0
+      ctime4: 0
+      ctime5: 0
+      ctime6: 0
+      ctime7: 0
+      atime0: 0
+      atime1: 65535
+      atime2: 0
+      atime3: 0
+      atime4: 0
+      atime5: 0
+      atime6: 0
+      atime7: 0
+      m_Mode: 0
+      m_NumColorKeys: 2
+      m_NumAlphaKeys: 2
+    numCornerVertices: 0
+    numCapVertices: 0
+    alignment: 0
+    textureMode: 0
+    shadowBias: 0
+    generateLightingData: 0
+  m_UseWorldSpace: 1
+  m_Loop: 0
+--- !u!114 &4439559746744009195
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4439559746744009173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a69af748a081a14dbc7aa333bece5af, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showHandles: 1
+  hidden: 0
+  parent: {fileID: 4439559746744009193}
+  ccName: 
+  splitMode: 0
+  partsTotal: 30
+  partsPerSection: 30
+  doNotOptimizeStraightLines: 0
+  useLocal: 0
+  spheresScale: 1
+  spheresColor: {r: 1, g: 1, b: 1, a: 1}
+  spheresCount: 100
+  updateAtStart: 0
+--- !u!114 &4439559746744009199
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4439559746744009173}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49e9f99735fa40e3aa9ccc6b4d65ea5d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  showHandles: 1
+  hidden: 0
+  parent: {fileID: 4439559746744009193}
+  ccName: 
+  distance: 0
+  handlesScale: 1
+  handlesColor: {r: 1, g: 1, b: 1, a: 1}
+  objectToManipulate: {fileID: 0}
+  cursorChangeMode: 0
+  speed: 6
+  speedField: {fileID: 0}
+  useFixedUpdate: 0
+  overflowControl: 1
+  moveObject: 1
+  rotateObject: 0
+  rotationInterpolation: 0
+  lerpSpeed: 5
+  slerpSpeed: 5
+  offsetAngle: {x: 0, y: 0, z: 0}
+  rotationField: {fileID: 0}
+  scaleObject: 0
+  scaleField: {fileID: 0}

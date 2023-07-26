@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GhostRacerMat
+  m_Shader: {fileID: -6465566751694194690, guid: 38d9c9ddfd87e504096710cc5a27776c,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_2830764f4e804447a124bff9016f9b4d: 1
+    - Vector1_d258e4290a9f466db0dc0a3ef6db78d6: 4.55
+    m_Colors:
+    - Color_76aea607381046cc84f6aed3915b4f65: {r: 0.93420345, g: 1, b: 0.21960783,
+        a: 0}
+    - Color_ae9f9b18774c43409ec7dea0deaa2933: {r: 0.17254901, g: 1, b: 0.8111621,
+        a: 1}
+  m_BuildTextureStacks: []

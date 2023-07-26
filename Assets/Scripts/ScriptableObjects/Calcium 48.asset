@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97c8739efd925d4aae57bdabc043146, type: 3}
+  m_Name: Calcium 48
+  m_EditorClassIdentifier: 
+  racerModel: {fileID: 919132149155446097, guid: 8f31fe3be63bdc441b1a0721f3139be9,
+    type: 3}
+  characterModel: {fileID: 6528001224000521624, guid: 4dbbf639546926b4684d99c32f5cbaa8,
+    type: 3}
+  racerName: Iron

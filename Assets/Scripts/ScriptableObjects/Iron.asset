@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97c8739efd925d4aae57bdabc043146, type: 3}
+  m_Name: Iron
+  m_EditorClassIdentifier: 
+  racerModel: {fileID: 5707248549873709493, guid: 25df3d8e4181ce840b2601bdb4bd7e63,
+    type: 3}
+  characterModel: {fileID: 7188267492872377985, guid: 5bc9b06180908904abedcb79568d67a5,
+    type: 3}
+  racerName: Iron
